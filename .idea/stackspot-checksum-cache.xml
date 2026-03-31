@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StackSpotChecksumCache">
+    <option name="checksumCache">
+      <map>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Calculadora.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="45755419f0a6a427b9e303a4c890d52f77e2c6ab0c4631a565eec63cdc13c77e" />
+              <option name="fileSize" value="116" />
+              <option name="lastModified" value="1774925285894" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Carro.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="327a9a77286fcd0f8b0bc1b538e7561528ae289d514849d917ea7d66f54fcb70" />
+              <option name="fileSize" value="122" />
+              <option name="lastModified" value="1774920963343" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Estudante.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="6fbeffee5a6009d40d932306fb5799426c54e11ad559ea70e6c38747fe11bba5" />
+              <option name="fileSize" value="140" />
+              <option name="lastModified" value="1774924589023" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/ImcCalculadora.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="78f6798e8aa53970d1de2844c412e2505b664d8145d9068be86896d771973829" />
+              <option name="fileSize" value="441" />
+              <option name="lastModified" value="1774926380917" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/ImcCalculator.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="4cf1fb95858883f6436b18ae628ad081ba510b5f2fd0696c7ffced4c6864d1e4" />
+              <option name="fileSize" value="557" />
+              <option name="lastModified" value="1774371242301" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Lampada.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="1854583ca82c74ff0e1146468f89103e5c1dcdd0da6fbb0492982d738fec7918" />
+              <option name="fileSize" value="249" />
+              <option name="lastModified" value="1774927609620" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Pessoa.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="71a08954f19ae992cad2335064c40b7187968e31e10c0d24308c5c2721865cd6" />
+              <option name="fileSize" value="188" />
+              <option name="lastModified" value="1774926888821" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Produto.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="91d569201005ee21c31e9c93ed72a8538bd3c31714f7ffe6a0d493f4307d1101" />
+              <option name="fileSize" value="685" />
+              <option name="lastModified" value="1774927626040" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/main/java/org/example/Saque.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="c9af6539b27107727011a4ed2257b2e23fadc3d5c256d2fd5bc56359d2b8a4da" />
+              <option name="fileSize" value="263" />
+              <option name="lastModified" value="1774927569968" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/CalculatorTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="7806de94acc895c3452c25349486e509f05758ed29362aa88968d622b8e509ed" />
+              <option name="fileSize" value="1263" />
+              <option name="lastModified" value="1774924859616" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/CalculatoraTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="c7688a27539e4703c561f12ff4fc5d30ddd3eac36b58610057df24d222b01667" />
+              <option name="fileSize" value="1298" />
+              <option name="lastModified" value="1774925275512" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/CarroTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="fd0b1a45287b6cc8e0186e9ce2d8672da2066c3143ea07fec43ff2f16d497382" />
+              <option name="fileSize" value="1171" />
+              <option name="lastModified" value="1774925433043" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/EstudanteTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="6f496b62c8e108c6236dc3df9235d97a9d5e57b0158f25610f32e5f98f29e268" />
+              <option name="fileSize" value="961" />
+              <option name="lastModified" value="1774925608119" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/ImcCalculadoraTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="d940a72ba07a802fb6dc9c9e8ff44a93f9f2d0e9da732e6d1f258e9588328981" />
+              <option name="fileSize" value="1263" />
+              <option name="lastModified" value="1774926371154" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/ImcCalculatorTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="3b23a4fd554ab31f3d3386c325d4aaa57d3b7d2ccaeed31a955960c7b029c17a" />
+              <option name="fileSize" value="1271" />
+              <option name="lastModified" value="1774925944480" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/LampadaTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="b66b9c46323f12604bf75a54cf5f54045eda985c87a6fb5218d557daff4bab23" />
+              <option name="fileSize" value="927" />
+              <option name="lastModified" value="1774926872518" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/PessoaTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="458f808213b94226407ff0527cab511377017f661ee23e0acd2a113961354a87" />
+              <option name="fileSize" value="1757" />
+              <option name="lastModified" value="1774927173803" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/ProdutoTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="5fd918bb9441c117c35a7abb284f3d8a1ab2baa075573d447bfef2e161cd803f" />
+              <option name="fileSize" value="1487" />
+              <option name="lastModified" value="1774927351793" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../units_tests:/Users/allanteixeira/IdeaProjects/units_tests/src/test/java/org/example/SaqueTest.java">
+          <value>
+            <ChecksumEntry>
+              <option name="checksum" value="8624a36532070f5f2f14041084af0053c8792b32b9754f57c3a23f8f63682dfd" />
+              <option name="fileSize" value="1646" />
+              <option name="lastModified" value="1774927569977" />
+              <option name="projectPath" value="$PROJECT_DIR$" />
+            </ChecksumEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
