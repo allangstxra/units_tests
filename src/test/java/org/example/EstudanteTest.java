@@ -16,11 +16,12 @@ class EstudanteTest {
         ;
     }
 
+    //teste para falhar no CI
     @Test
     @DisplayName("Deve reprovar aluno com nota menor que 6")
     void estudanteReprovado() {
         Estudante estudante = new Estudante();
-        estudante.nota = 5.9;
+        estudante.nota = 6.9;
         assertFalse(estudante.isApproved(), "5.9 deve ser reprovado");
     }
 
